@@ -1,1 +1,2 @@
-console.log()
+console.log("connected")
+function hello
